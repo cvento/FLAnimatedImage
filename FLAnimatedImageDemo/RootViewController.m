@@ -8,8 +8,8 @@
 
 
 #import "RootViewController.h"
-#import "FLAnimatedImage.h"
 #import "DebugView.h"
+#import <FLAnimatedImage/FLAnimatedImage.h>
 
 
 @interface RootViewController ()

@@ -7,8 +7,8 @@
 //
 
 
-#import "FLAnimatedImage.h"
 #import <UIKit/UIKit.h>
+#import <FLAnimatedImage/FLAnimatedImage.h>
 
 typedef NS_ENUM(NSUInteger, DebugViewStyle) {
     DebugViewStyleDefault,
